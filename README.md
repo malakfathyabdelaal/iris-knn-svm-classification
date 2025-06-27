@@ -60,6 +60,9 @@ This machine learning project applies two classification models — **K-Nearest 
 3. Run all cells step-by-step
 
 ---
+![output](https://github.com/user-attachments/assets/88c6ab49-5af6-49e6-ad80-12fbdd6f4980)
+![Screenshot 2025-06-28 013006](https://github.com/user-attachments/assets/6d36f3f2-5c3a-40de-b814-20ccd52d8542)
+![Screenshot 2025-06-28 013041](https://github.com/user-attachments/assets/2a46bbe6-1821-40ad-93f7-d3229109be02)
 
 
 ## ✍️ Author
